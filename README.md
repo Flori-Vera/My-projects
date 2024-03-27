@@ -20,7 +20,7 @@ Is a reflection of my interests, skills and dedication to learning. They are arr
   The Electronic Components Store was my idea of semester project for the DSA. It is a simple C code. When you run the program, a menu is displayed and you can choose from the options given what are you looking for.  
   
 • Project 3: Glass Filling Project
-  This is a project made in the first year of faculty for Applied Informatics and it it an Arduino type. The project consists of creating a system that will be able to fill a glass with water, using a distance sensor and a button. In its implementation, we will find 
+  This is a project made in the first year of faculty for Applied Informatics and it is an Arduino type. The project consists of creating a system that will be able to fill a glass with water, using a distance sensor and a button. In its implementation, we will find 
   an ESP32 development board. It has only a romanian version of the project for now.
   
 • Project 4: Library Management System
