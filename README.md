@@ -17,7 +17,7 @@ Is a reflection of my interests, skills and dedication to learning. They are arr
   -Physical implementation: This part is still in progress so I'm gonna give an update of project when it's finished.
 
 • Project 2: Data Structures Algorithms Mini-project
-  The Electronic Components Store was my idea of semester project for the DSA. It is a simple C code. When you run the program, a menu is displayed and you can choose from the options given what are you looking for.  
+  The Electronic Components Store (ElectroList) was my idea of semester project for the DSA. It is a simple C code. It uses a doubly linked list structure to store and organize details about each component, including the name, ID, and minimum quantity that can be purchased. When you run the program, a menu in the console is displayed and you can choose from the options given what are you looking for, facilitating simple and efficient inventory management.  
   
 • Project 3: Glass Filling Project
   This is a project made in the first year of faculty for Applied Informatics and it is an Arduino type. The project consists of creating a system that will be able to fill a glass with water, using a distance sensor and a button. In its implementation, we will find 
