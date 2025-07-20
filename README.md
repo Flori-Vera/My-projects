@@ -1,4 +1,4 @@
-  Here, you'll find a collection of various projects I've worked on during my academic journey, from coding assignments, small project ideas to hardwae projects with documantation, sumulations and implementation.
+  Here, you'll find a collection of various projects I've worked on during my academic journey, from coding assignments, small project ideas to hardwae projects with documantation, simulations and implementation.
 Is a reflection of my interests, skills and dedication to learning. They are arranged from last to previous, wanting to evidentiate the latest projects that i made. 
 
   Structure
